@@ -6,3 +6,7 @@ _**Current Features:**_
 
 _**To be Added:**_
 - Recognize for points with crosswalks and connect those two endpoints together if found.
+
+For more info check: 
+https://www.geeksforgeeks.org/dsa/dijkstras-shortest-path-algorithm-greedy-algo-7/
+https://www.w3schools.com/dsa/dsa_algo_graphs_dijkstra.php
