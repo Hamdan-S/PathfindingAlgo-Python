@@ -1,0 +1,1 @@
+Using Djikstras Algorithm as the idea behind this code I was able to create a python program that gets geoJSON data and finds the nearest points between certain coordinates. It's pretty simple and I'm not Newton as math so the internet helped a lot.
