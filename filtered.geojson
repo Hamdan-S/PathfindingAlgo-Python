@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-88.0531299984337, 42.0629624921386],
+          [-88.0536360957661, 42.0629908820274]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7,
+        "FC_NAME": null,
+        "ROAD_NAME": null,
+        "BUFFER": 0,
+        "COMMENT": null,
+        "STATUS": 0,
+        "Segment_Length": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 113,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-88.1094857973768, 42.0011248325506],
+          [-88.1016959025809, 42.0014278484853],
+          [-88.091700320518, 42.0017487391277]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 113,
+        "FC_NAME": null,
+        "ROAD_NAME": null,
+        "BUFFER": 0,
+        "COMMENT": null,
+        "STATUS": 0,
+        "Segment_Length": null
+      }
+    }
+  ]
+}
+
